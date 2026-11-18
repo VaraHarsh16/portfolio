@@ -66,15 +66,15 @@ export const projects = [
     live: "https://goldencrusttt.netlify.app/",
     code: "https://github.com/VaraHarsh16/Golden-Crust-Bakery",
   },
-  {
-    title: "Library Management System",
-    category: "College Project",
-    description:
-      "Manages books, members and issue/return history with automatic fine calculation and quick search by title or author.",
-    tags: ["Java", "MySQL"],
-    live: "#",
-    code: "#",
-  },
+  // {
+  //   title: "Library Management System",
+  //   category: "College Project",
+  //   description:
+  //     "Manages books, members and issue/return history with automatic fine calculation and quick search by title or author.",
+  //   tags: ["Java", "MySQL"],
+  //   live: "#",
+  //   code: "#",
+  // },
  
 ];
 
