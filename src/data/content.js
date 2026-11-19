@@ -5,8 +5,8 @@ export const profile = {
   role: "Full Stack & Software Developer",
   tagline:
     "Computer Engineering student who loves building web apps. Learning something new every day and turning it into real projects.",
-  email: "yourname@example.com", // TODO: change
-  github: "https://github.com/your-username", // TODO: change
+  email: "varaharsh061@example.com", // TODO: change
+  github: "https://github.com/VaraHarsh16", // TODO: change
   linkedin: "https://linkedin.com/in/your-username", // TODO: change
   about: [
     "Hi, I'm Harsh, a B.Tech student at Atmiya University, Gujarat. I did my diploma at A V Parekh Technical Institute, where I fell in love with building things for the web.",
